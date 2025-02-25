@@ -131,26 +131,26 @@ Examples of VCS:
 
 (g) What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
    1. Keeping Up with Rapidly Changing Technology -New frameworks, languages, and tools emerge frequently, making it challenging to stay updated.
-      .Engage in continuous learning through side projects and open-source contributions.
+      ✅Engage in continuous learning through side projects and open-source contributions.
    2. Debugging and Fixing Bugs- Software bugs can be difficult to identify and fix, leading to delays and frustration.
-      .Use debugging tools and loggers to trace issues efficiently.
-      .Write unit tests to catch bugs early.
-      .Break problems into smaller parts to isolate the root cause.
+      ✅Use debugging tools and loggers to trace issues efficiently.
+      ✅Write unit tests to catch bugs early.
+      ✅Break problems into smaller parts to isolate the root cause.
    4. Time Management and Meeting Deadlines-Managing multiple tasks, fixing bugs, and delivering features on time can be overwhelming
-      .Break tasks into smaller, manageable milestones.
-      .Set realistic deadlines and use productivity tools (e.g., Notion, Asana).
+      ✅Break tasks into smaller, manageable milestones.
+      ✅Set realistic deadlines and use productivity tools (e.g., Notion, Asana).
       
    5. Managing Technical Debt- Poorly written code, lack of documentation, and rushed development can lead to long-term maintenance issues.
-      .Follow best coding practices, such as clean code principles.
-      .Allocate time for refactoring and optimizing code.
-      .Document code properly to ease future maintenance.
+      ✅Follow best coding practices, such as clean code principles.
+      ✅Allocate time for refactoring and optimizing code.
+      ✅Document code properly to ease future maintenance.
    6. Balancing Performance and Development Speed - Pressure to meet deadlines may lead to sacrificing code quality, causing performance issues later.
-      .Use Agile methodologies to deliver in increments.
-      .Prioritize core features before optimizations.
-      .Use profiling tools to measure and improve performance.
+      ✅Use Agile methodologies to deliver in increments.
+      ✅Prioritize core features before optimizations.
+      ✅Use profiling tools to measure and improve performance.
    7. Collaboration and Team Communication-Working in teams with different skill levels and opinions can cause conflicts or misunderstandings.
-      .Use collaboration tools (Slack, Microsoft Teams, Git) to stay connected.
-      .Follow Agile/Scrum practices for structured teamwork.
+      ✅Use collaboration tools (Slack, Microsoft Teams, Git) to stay connected.
+      ✅Follow Agile/Scrum practices for structured teamwork.
       ✅Encourage code reviews and knowledge-sharing sessions.
    
 
@@ -191,8 +191,27 @@ Examples of VCS:
 
 #Part 2: Introduction to AI and Prompt Engineering
 
+(a) Define prompt engineering and discuss its importance in interacting with AI models.
+-Prompt engineering is the practice of designing and refining input queries (prompts) to achieve specific and accurate responses from AI models,It involves structuring 
+ prompts in a way that guides the model toward producing relevant, accurate, and high-quality outputs. 
+ Importance of Prompt Engineering
+  1. Enhances AI Output Quality
+   ✅ A well-crafted prompt ensures the AI generates coherent, precise, and useful responses.
+  2. Improves Efficiency & Productivity
+   ✅ Reduces the need for trial-and-error interactions by getting the desired response faster.
+  3. Allows Control Over AI Behavior
+   ✅ By specifying tone, format, and style, users can tailor outputs for different use cases
+  4. Bridges the Gap Between Humans & AI
+   ✅ Ensures that AI understands user intent and provides responses that align with expectations
 
-Define prompt engineering and discuss its importance in interacting with AI models.
-
-
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+ (b) Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+     ❌ "Tell me about technology."
+     Improved Prompt:
+     ✅ "Explain how artificial intelligence is transforming the healthcare industry, including examples of AI applications in diagnosis and treatment."
+     Why is the Improved Prompt More Effective?
+      ✅Clarity – Specifies the focus on artificial intelligence rather than general technology.
+      ✅Specificity – Narrows the scope to healthcare, avoiding overly broad answers.
+      ✅Conciseness – Clearly defines what to explain (transformation in healthcare) and how (examples in diagnosis and treatment).
+      ✅Relevance – Ensures the AI provides actionable and meaningful information instead of a generic response.
+     
+     
