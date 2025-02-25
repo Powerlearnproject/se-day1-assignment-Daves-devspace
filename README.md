@@ -4,11 +4,10 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
--Software engineering is the practice of designing, building, testing, and maintaining software
-systems using engineering principles. It involves writing instructions (code) 
+(a) Explain what software engineering is and discuss its importance in the technology industry.
+-Software engineering is the practice of designing, building, testing, and maintaining softwaresystems using engineering principles. It involves writing instructions (code) 
 for computers to perform tasks, solve problems, and create useful applications.
-   Importance of software engineering in the technology industry
+Importance of software engineering in the technology industry
   .Solving Real-World Problems: Software engineering provides solutions to everyday challenges,
    enabling people to communicate, shop online, manage their finances, or even drive safely with autonomous technology.
   .Building Reliable and Scalable Systems: As technology evolves and becomes increasingly complex, it is essential to
@@ -19,7 +18,7 @@ for computers to perform tasks, solve problems, and create useful applications.
   
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+(b) Identify and describe at least three key milestones in the evolution of software engineering.
  The evolution of software engineering has been marked by several significant milestones that highlight advancements in technology, development practices, and the 
  increasing 
  complexity of software systems.
@@ -43,7 +42,7 @@ Identify and describe at least three key milestones in the evolution of software
   development cycle.
   
 
-List and briefly explain the phases of the Software Development Life Cycle.
+(c)List and briefly explain the phases of the Software Development Life Cycle.
  .Requirement Analysis – Understanding what users need and defining the necessary requirements.
  .System Design – Developing the architecture and overall design of the system.
  .Implementation – Writing the code and creating the software.
@@ -55,7 +54,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
  budget, and fulfills user expectations. Each phase is built on the last, culminating in a successful software solution.
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+(d) Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
   .Waterfall
   Waterfall is ideal for projects that have clear and stable requirements along with a well-defined scope. Some examples include:
   -Construction Projects – Building and infrastructure projects necessitate thorough planning before any execution begins.
@@ -67,9 +66,9 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
   -Mobile App Development – Applications like e-commerce platforms that need regular updates to meet user demands.
   -Marketing Campaigns – Digital marketing initiatives that require ongoing optimization driven by analytics.
     
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+(e) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
  . Software Developer
-Role: Tasked with designing, coding, and implementing software applications according to project specifications.
+   Role: Tasked with designing, coding, and implementing software applications according to project specifications.
 
 Key Responsibilities:
 - Writing clean, efficient, and scalable code.
@@ -90,7 +89,7 @@ Key Responsibilities:
 - Implementing CI/CD pipelines to automate testing processes.
 - Monitoring test coverage and continuously enhancing testing strategies.
 
-3. Project Manager (PM)
+. Project Manager (PM)
 Role: Manages the planning, execution, and delivery of software projects, ensuring that deadlines and stakeholder requirements are fulfilled.
 
 Key Responsibilities:
@@ -102,7 +101,7 @@ Key Responsibilities:
 - Ensuring project alignment with business objectives.
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+(f)Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
