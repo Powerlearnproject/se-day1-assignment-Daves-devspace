@@ -130,10 +130,64 @@ Examples of VCS:
   
 
 (g) What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+   1. Keeping Up with Rapidly Changing Technology -New frameworks, languages, and tools emerge frequently, making it challenging to stay updated.
+      .Engage in continuous learning through side projects and open-source contributions.
+   2. Debugging and Fixing Bugs- Software bugs can be difficult to identify and fix, leading to delays and frustration.
+      .Use debugging tools and loggers to trace issues efficiently.
+      .Write unit tests to catch bugs early.
+      .Break problems into smaller parts to isolate the root cause.
+   4. Time Management and Meeting Deadlines-Managing multiple tasks, fixing bugs, and delivering features on time can be overwhelming
+      .Break tasks into smaller, manageable milestones.
+      .Set realistic deadlines and use productivity tools (e.g., Notion, Asana).
+      
+   5. Managing Technical Debt- Poorly written code, lack of documentation, and rushed development can lead to long-term maintenance issues.
+      .Follow best coding practices, such as clean code principles.
+      .Allocate time for refactoring and optimizing code.
+      .Document code properly to ease future maintenance.
+   6. Balancing Performance and Development Speed - Pressure to meet deadlines may lead to sacrificing code quality, causing performance issues later.
+      .Use Agile methodologies to deliver in increments.
+      .Prioritize core features before optimizations.
+      .Use profiling tools to measure and improve performance.
+   7. Collaboration and Team Communication-Working in teams with different skill levels and opinions can cause conflicts or misunderstandings.
+      .Use collaboration tools (Slack, Microsoft Teams, Git) to stay connected.
+      .Follow Agile/Scrum practices for structured teamwork.
+      ✅Encourage code reviews and knowledge-sharing sessions.
+   
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+(h) Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+    1. Unit Testing
+       .Tests individual components (functions, methods, classes) in isolation.
+       .Typically automated and written by developers.
+       Importance:
+       ✅ Identifies bugs early in development.
+       ✅ Ensures individual components work as expected.
+       ✅ Makes debugging easier by isolating failures.
+    2. Integration Testing
+       .Tests how multiple components or modules work together.
+       .Ensures correct data flow and interaction between different parts of the system.
+       Importance:
+       ✅ Detects issues in module communication.
+       ✅ Prevents integration failures in APIs, databases, and third-party services.
+       ✅ Ensures smooth interaction between frontend and backend.
+    3. System Testing
+      .Tests the entire application as a whole to verify that it meets functional and non-functional requirements.
+      .Conducted in an environment that mimics production.
+      Importance:
+      ✅ Ensures all integrated components function together as intended.
+      ✅ Identifies overall system performance, security, and usability issues.
+      ✅ Validates that the application meets the requirements before release.
+    4. Acceptance Testing
+      .Evaluates whether the software meets business requirements and is ready for deployment.
+      .Usually performed by stakeholders, end-users, or clients.
+      Importance:
+      ✅ Ensures the software meets real-world expectations.
+      ✅ Reduces post-deployment issues by validating user scenarios.
+      ✅ Provides confidence before production release.
+      Types of Acceptance Testing:
+        -User Acceptance Testing (UAT): End-users validate real-world functionality.
+        -Beta Testing: A limited group of users tests the product before public release.
+      
 
 #Part 2: Introduction to AI and Prompt Engineering
 
