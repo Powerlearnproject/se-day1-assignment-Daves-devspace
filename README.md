@@ -20,12 +20,13 @@ for computers to perform tasks, solve problems, and create useful applications.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
- The evolution of software engineering has been marked by several significant milestones that highlight advancements in technology, development practices, and the increasing 
+ The evolution of software engineering has been marked by several significant milestones that highlight advancements in technology, development practices, and the 
+ increasing 
  complexity of software systems.
- . The Development of Structured Programming (1960s-1970s)
+ .The Development of Structured Programming (1960s-1970s)
    During the 1960s and 1970s, software development often lacked organization, resulting in unstructured and difficult-to-manage code. As software systems became more 
    complex, it became evident that a more systematic approach was needed.
-. The Introduction of the Software Development Life Cycle (SDLC) (1970s-1980s)
+.The Introduction of the Software Development Life Cycle (SDLC) (1970s-1980s)
   As software systems became increasingly essential to business and government functions in the 1970s and 1980s, the need for a systematic and repeatable process to guide 
   software development became clear. This led to the establishment of the Software Development Life Cycle (SDLC), which outlines the stages of planning, design, coding, 
   testing, and maintenance.
@@ -34,11 +35,10 @@ Identify and describe at least three key milestones in the evolution of software
   projects.
   Clearer project planning and timelines: With well-defined stages, teams could better estimate project timelines, monitor progress, and allocate resources efficiently.
   Foundation for modern methodologies: The SDLC paved the way for more adaptable and iterative approaches like Agile and DevOps, which emerged in subsequent decades
-. The Agile Movement (1990s-Present)
-  In the late 1990s, software development teams faced difficulties with traditional, inflexible methodologies like Waterfall, especially in rapidly evolving industries. This 
-  challenge sparked the Agile movement, which prioritized flexibility, collaboration, and iterative development. In 2001, a group of software practitioners released the 
-  Agile Manifesto, outlining principles for a more responsive approach to software development.
-
+.The Agile Movement (1990s-Present)
+  In the late 1990s, software development teams faced difficulties with traditional, inflexible methodologies like Waterfall, especially in rapidly evolving industries. 
+  This challenge sparked the Agile movement, which prioritized flexibility, collaboration, and iterative development. In 2001, a group of software practitioners released 
+  the Agile Manifesto, outlining principles for a more responsive approach to software development.
   Key concepts of Agile include the frequent delivery of functional software, close collaboration with customers, and the willingness to embrace changes even late in the 
   development cycle.
   
