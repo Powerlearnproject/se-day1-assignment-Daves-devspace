@@ -184,8 +184,7 @@ Examples of VCS:
 #Part 2: Introduction to AI and Prompt Engineering
 
 (a) Define prompt engineering and discuss its importance in interacting with AI models.
--Prompt engineering is the practice of designing and refining input queries (prompts) to achieve specific and accurate responses from AI models,It involves structuring 
- prompts in a way that guides the model toward producing relevant, accurate, and high-quality outputs. 
+-Prompt engineering is the crafting questions or statements to get the best possible responses from AI models 
  Importance of Prompt Engineering
   1. Enhances AI Output Quality
     -A well-crafted prompt ensures the AI generates coherent, precise, and useful responses.
