@@ -196,22 +196,22 @@ Examples of VCS:
  prompts in a way that guides the model toward producing relevant, accurate, and high-quality outputs. 
  Importance of Prompt Engineering
   1. Enhances AI Output Quality
-   ✅ A well-crafted prompt ensures the AI generates coherent, precise, and useful responses.
+    -A well-crafted prompt ensures the AI generates coherent, precise, and useful responses.
   2. Improves Efficiency & Productivity
-   ✅ Reduces the need for trial-and-error interactions by getting the desired response faster.
+     -Reduces the need for trial-and-error interactions by getting the desired response faster.
   3. Allows Control Over AI Behavior
-   ✅ By specifying tone, format, and style, users can tailor outputs for different use cases
+     -By specifying tone, format, and style, users can tailor outputs for different use cases
   4. Bridges the Gap Between Humans & AI
-   ✅ Ensures that AI understands user intent and provides responses that align with expectations
+     -Ensures that AI understands user intent and provides responses that align with expectations
 
  (b) Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
      ❌ "Tell me about technology."
      Improved Prompt:
      ✅ "Explain how artificial intelligence is transforming the healthcare industry, including examples of AI applications in diagnosis and treatment."
      Why is the Improved Prompt More Effective?
-      ✅Clarity – Specifies the focus on artificial intelligence rather than general technology.
-      ✅Specificity – Narrows the scope to healthcare, avoiding overly broad answers.
-      ✅Conciseness – Clearly defines what to explain (transformation in healthcare) and how (examples in diagnosis and treatment).
-      ✅Relevance – Ensures the AI provides actionable and meaningful information instead of a generic response.
+      .Clarity – Specifies the focus on artificial intelligence rather than general technology.
+      .Specificity – Narrows the scope to healthcare, avoiding overly broad answers.
+      .Conciseness – Clearly defines what to explain (transformation in healthcare) and how (examples in diagnosis and treatment).
+      .Relevance – Ensures the AI provides actionable and meaningful information instead of a generic response.
      
      
